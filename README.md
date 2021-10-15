@@ -1,12 +1,14 @@
-# CS_Sem_3_Assignment_2
-Solution of Assignment II in C
+# Addition and Multiplication on numerals in different systems and a C Code to convert numerals from one system to another
+This repository contains C Codes to perform Addition and Multiplication in following systems
 
-Assignment-no II
+1- Hindu/Arabic System
 
-CS 201, Data Structures
+2- Roman System(Primitive Method used by Romans and Advanced one too)
 
-Department of Computer Science and Engineering,
+3- Unary System
 
-National Institute of Technology Silchar
+4- Binary System
 
-Anuj Yadav_2012024
+
+
+
